@@ -1,0 +1,52 @@
+/* STYLES */
+
+body {
+    background: rgb(66, 66, 66);
+    color: rgb(0, 0, 0);
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+main {
+    max-width: 650px;
+    margin: auto;
+    background: rgb(197, 233, 253) ;
+    border: 10px solid black ;
+    font-size: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+
+
+        
+}
+
+h1 {
+    font-size: 60px;
+    letter-spacing: -2px;
+    line-height: 70px;
+    color: rgb(0, 39, 61);
+    text-align: center;
+    }
+section#author {
+    text-align: center;
+}
+
+h2{
+    font-size: 30px;
+    color: rgb(0, 82, 129);
+    
+}
+
+h3{
+    font-size: 15px;
+    color: rgb(0, 115, 182);
+    text-align: center;
+}
+
+h4{
+    color: rgb(0, 76, 119);
+    text-align: center;
+
+}
+
